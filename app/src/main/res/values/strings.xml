@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ChatSafe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action">action!!</string>
+    <string name="MsnPrueba">Korn (estilizado KoЯn) es una banda de nu metal de Bakersfield, California, Estados Unidos formada en 1993. Son considerados los pioneros del género nu metal3 4 junto con Deftones. Como otras bandas de la época, fueron los que inspiraron a muchas de las bandas de nu metal y metal alternativo entre los años 1990 y comienzos del 2000.
+
+El catálogo de la banda consiste de diez debuts consecutivos en el top ten del Billboard 200,5 incluyendo un álbum recopilatorio, Greatest Hits Vol.1, y su Korn The Path Of Totality décimo álbum de estudio, publicado el 06 de diciembre de 2011. Hasta la fecha, Korn ha vendido más de 60 millones de álbumes mundialmente, incluyendo 19,5 en los Estados Unidos,6 mientras que han obtenido siete nominaciones a los premios Grammy, dos de los cuales han ganado</string>
+
+    <string-array name="menulistview">
+        <item>Copiar Mensaje</item>
+        <item>Eliminar Mensaje</item>
+    </string-array>
+
+</resources>

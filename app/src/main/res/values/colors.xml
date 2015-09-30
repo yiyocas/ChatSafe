@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="primary" type="color">#9a28a1</item>
+    <item name="primaryDark" type="color">#6f1d7e</item>
+    <item name="textColorPrimary" type="color">@android:color/white</item>
+    <item name="accentColor" type="color">#db4437</item>
+    <color name="Blue800">#1565C0</color>
+    <color name="Blue_LightSkyBlue">#87CEFA</color>
+
+    <color name="primary_dark">#1976D2</color>
+    <color name ="accent">#FF4081</color>
+    <color name="window_background">#FFF5F5F5</color>
+
+    <color name="Yellow100">#FFF9C4</color>
+    <color name="LightBLue100">#B3E5FC</color>
+    <color name="Gray200">#EEEEEE</color>
+    <color name="Gray300">#E0E0E0</color>
+
+
+</resources>

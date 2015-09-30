@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/card_view"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    card_view:cardCornerRadius="4dp"
+    android:layout_margin="5dp">
+
+    <com.pkmmte.view.CircularImageView
+        android:id="@+id/imagencontacto"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:scaleType="fitCenter"
+        android:src="@android:drawable/sym_def_app_icon"/>
+
+    <LinearLayout
+        android:layout_marginLeft="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/nomcontacto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="16dp"
+            android:text="CONTACTO"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/Blue800"/>
+
+        <TextView
+            android:id="@+id/telcontacto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="30dp"
+            android:text="TELEFONO"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:textColor="@color/Blue_LightSkyBlue"/>
+    </LinearLayout>
+</android.support.v7.widget.CardView>
