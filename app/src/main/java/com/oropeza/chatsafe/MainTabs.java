@@ -59,6 +59,7 @@ public class MainTabs extends AppCompatActivity {
             fragment = Fragment.instantiate(activity, cls.getName());
         }
 
+
         public void onTabSelected(ActionBar.Tab tab, FragmentTransaction ft) {
             ft.replace(android.R.id.content, fragment, tag);
         }
